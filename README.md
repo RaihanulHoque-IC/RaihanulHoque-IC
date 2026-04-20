@@ -8,9 +8,11 @@ A Master’s student in **Electrical Systems Engineering** at **Paderborn Univer
 * **Analysis:** Stability (Phase Margin/Gain Margin), Noise Analysis, PEX (Post-Layout Extraction), Corner Simulations.
 * **Languages:** SKILL, Python (basic), MATLAB.
 
-### 🔬 Featured Projects
-* **Fully Differential TIA:** Designed for a coherent receiver, focusing on high transimpedance gain and wide bandwidth while maintaining low noise.
-* **Two-Stage Miller OpAmp:** Optimized for stability and gain-bandwidth product (GBW) using pole-splitting techniques.
+## 🔬 Projects & Labs
+
+| Topic | Project Description | Link |
+| :--- | :--- | :--- |
+| Master's Thesis | Fully Differential TIA for Coherent Optical Receivers | [View Project](https://github.com/RaihanulHoque-IC/TIA-Coherent-Receiver) |
 
 ### 📫 Let's Connect
 * **LinkedIn:** [https://www.linkedin.com/in/raihanul-hoque/]
