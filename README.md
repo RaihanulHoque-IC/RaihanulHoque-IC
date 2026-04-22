@@ -5,8 +5,8 @@ A Master’s student in **Electrical Systems Engineering** at **Paderborn Univer
 ### 🛠 Technical Expertise
 * **Circuit Knowledge:** Differential Pairs, Cascode Amplifiers, Current Mirror, OpAmp, TIA, Biasing Circuits, VGA, Gilbert Cell, CTLE, AGC, IDCC.
 * **EDA Tools:** Cadence Virtuoso (ADE L/XL/GXL), Spectre, LTspice. 
-* **Analysis:** Stability, Noise Analysis, Linearity, PEX (Post-Layout Extraction), Corner Simulations.
-* **Languages:** SKILL, Python (basic), MATLAB.
+* **Analysis:** DC, Frequency Response, Stability, Noise Analysis, Linearity, Physical Verifications (DRC, LVS, PEX (Post-Layout Extraction)), Corner Simulations.
+* **Scripting/OS:** SKILL, Python (basic), MATLAB, Linux. 
 
 ## 🔬 Projects & Labs
 
@@ -17,6 +17,7 @@ A Master’s student in **Electrical Systems Engineering** at **Paderborn Univer
 ### 📫 Let's Connect
 * **LinkedIn:** [https://www.linkedin.com/in/raihanul-hoque/]
 * **Email:** [hoque.raihanul.upb@gmail.com]
+* **Resume:**[Resume](./.pdf)
 * **Location:** Paderborn, Germany
 
 <!--
