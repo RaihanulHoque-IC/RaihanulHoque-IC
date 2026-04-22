@@ -3,8 +3,8 @@
 A Master’s student in **Electrical Systems Engineering** at **Paderborn University**, focusing on **Analog and Mixed-Signal IC Design**. I am exploring the semiconductor industry through continuous learning. 
 
 ### 🛠 Technical Expertise
-* **Design:** TIA, Multi-stage OpAmps, Biasing Circuits, VGA.
-* **EDA Tools:** Cadence Virtuoso (ADE L/XL/GXL), Spectre, LTspice.
+* **Circuit Knowledge:** Differential Pairs, Cascode Amplifiers, Current Mirror, OpAmp, TIA, Biasing Circuits, VGA, Gilbert Cell, CTLE, AGC, IDCC.
+* **EDA Tools:** Cadence Virtuoso (ADE L/XL/GXL), Spectre, LTspice. 
 * **Analysis:** Stability, Noise Analysis, Linearity, PEX (Post-Layout Extraction), Corner Simulations.
 * **Languages:** SKILL, Python (basic), MATLAB.
 
