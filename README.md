@@ -17,7 +17,7 @@ A Master’s student in **Electrical Systems Engineering** at **Paderborn Univer
 ### 📫 Let's Connect
 * **LinkedIn:** [https://www.linkedin.com/in/raihanul-hoque/]
 * **Email:** [hoque.raihanul.upb@gmail.com]
-* **Resume:**[Resume](./.pdf)
+* **Resume:** [Download](./Resume_Hoque_Muhammed_Raihanul.pdf)
 * **Location:** Paderborn, Germany
 
 <!--
