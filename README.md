@@ -1,6 +1,11 @@
 # Hi, I'm Muhammed Raihanul Hoque 👋
 
-A Master’s student in **Electrical Systems Engineering** at **Paderborn University**, focusing on **Analog and Mixed-Signal IC Design**. I am exploring the semiconductor industry through continuous learning. 
+Master’s student in Electrical Systems Engineering with hands-on experience in high-speed analog frontend
+circuit design for optical communications. Developed a fully differential transimpedance amplifier (TIA)
+for a coherent IQ receiver as part of my thesis with full schematic-to-layout flow including DRC, LVS, PEX,
+and EM simulation. Proficient in Cadence Virtuoso and in MATLAB. Focused on building a deep understanding
+of AMS IC design through project work, and looking to continue that in an industry environment
+across Europe.
 
 ### 🛠 Technical Know-how
 * **Circuit Knowledge:** Differential Pairs, Cascode Amplifiers, Current Mirror, OpAmp, TIA, Biasing Circuits, VGA, Gilbert Cell, CTLE, AGC, IDCC.
