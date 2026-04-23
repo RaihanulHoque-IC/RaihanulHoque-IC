@@ -8,7 +8,7 @@ of AMS IC design through project work, and looking to continue that in an indust
 across Europe.
 
 ### 🛠 Technical Know-how
-* **Circuit Knowledge:** Differential Pairs, Cascode Amplifiers, Current Mirror, OpAmp, TIA, Biasing Circuits, VGA, Gilbert Cell, CTLE, AGC, IDCC.
+* **Circuit Knowledge:** Differential Amplifiers, Cascodes, Current Mirror, OpAmps, TIAs, Biasing Circuits, VGA, Gilbert Cell, CTLE (Equalizers), AGC, IDCC, Oscillators. 
 * **EDA Tools:** Cadence Virtuoso (ADE L/XL/GXL), Spectre, LTspice. 
 * **Analysis:** DC, Frequency Response, Stability, Noise Analysis, Linearity, Physical Verifications (DRC, LVS, PEX (Post-Layout Extraction)), Corner Simulations.
 * **Scripting/OS:** SKILL, Python (basic), MATLAB, Linux. 
