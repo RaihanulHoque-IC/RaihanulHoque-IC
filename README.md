@@ -18,6 +18,7 @@ across Europe.
 | Topic | Project Description | Link |
 | :--- | :--- | :--- |
 | Master's Thesis | Fully Differential TIA for Coherent Optical Receivers | [View Project](https://github.com/RaihanulHoque-IC/TIA-Coherent-Receiver) |
+| Master's Project | Guided Modes for Dielectric Slab Waveguide | [View Project](https://github.com/RaihanulHoque-IC/Guided-modes-of-dielectric-slab-waveguide) |
 
 ### 📫 Let's Connect
 * **LinkedIn:** [https://www.linkedin.com/in/raihanul-hoque/]
